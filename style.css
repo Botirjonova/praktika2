@@ -1,0 +1,336 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 800px;
+}
+
+nav button{
+    border-radius: 5px;
+    background: #FF7A50;
+    color: white;
+    width: 120px;
+    height: 50.41px;
+    border: none;
+    box-shadow: 0px 22px 40px 0px #FF683830;
+    font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+.nAVBAR a:hover{
+    color: #FF7A50;
+}
+
+a {
+    text-decoration: none;
+    color: #363853;
+    font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.card{
+    display: flex;
+    margin-left: 150px;
+}
+
+.wrapper{
+    color: #FF7A50;
+}
+
+.left{
+    font-weight: 300;
+     font-size: 40px;
+   
+}
+
+h1{
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    padding-top: 250px;
+}
+
+
+.shamelles{
+    width: 530px;
+    height: 156px;
+    font-weight: 500;
+    font-size: 66px;
+}
+p{
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.righ img{
+    margin-top: 200px;
+}
+
+.h1{
+    color: #363853;
+}
+
+p{
+    font-weight: 500;
+    
+}
+
+.button{
+    color: #363853;
+    background-color: #FF7A50;
+    border: none;
+    width: 163px;
+    height: 50.41px;
+    font-weight: 400;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.righ2{
+    margin-left: 150px;
+}
+
+.button2{
+    width: 163px;
+    height: 50.41px;
+    color: #363853;
+    border: none;
+    font-weight: 400;
+    font-size: 20px;
+    background-color: white;
+}
+
+.cards{
+    display: flex;
+}
+
+.h11{
+    color: #363853;
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    padding-top: 250px;
+}
+.h11 span{
+    color: #FF7A50;
+}
+
+.cards p{
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    padding-top: 150px;
+    width: 449px;
+    height: 103px;
+}
+
+.cards p{
+    color: #363853;
+}
+
+.div button{
+  margin-top: 100px;
+}
+
+.h2{
+    text-align: center;
+   color: #363853;
+    font-weight: 500;
+    font-size: 36px;
+    
+}
+
+.h2 span{
+    color: #FF7A50;
+}
+
+.h2{
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal
+}
+
+.p{
+    width: 79px;
+    height: 32px;
+}
+
+.pizza h4{
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 90px;
+}
+
+.pizza h4{
+    color: #363853;
+    font-weight: 400;
+    font-size: 24px;
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal
+}
+
+.pizza p{
+    color:#363853;    
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal
+}
+
+.pizza button{
+    width: 79px;
+    height: 33px;
+    box-shadow: 0px 5px 12px 0px #FF683830;
+    background-color: #FF7A50;
+    border: none;
+    border-radius: 20px 20px 0px 20px;
+    opacity: 0px;
+
+   
+}
+
+.play{
+    display: flex;
+    margin-top: 50px;
+   
+}
+
+.play h2{
+    color: ;
+    font-weight: 500;
+    font-size: 36px;
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal
+    
+
+}
+
+.play h2{
+    font-weight: 500;
+    font-size: 36px;
+}
+
+.play span{
+    color: #FF7A50;
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal
+}
+
+.play{
+    color: #363853;
+}
+.tekst p{
+    font-weight: 400;
+    font-size: 20px;
+    width: 538px;
+    height: 94px;
+
+}
+
+
+.img{
+    margin-left: 27px;
+}
+
+.tekst{
+    padding-left: 150px;
+}
+
+.button3{
+    width: 800px;
+    height: 60px;
+}
+
+.button3{
+    padding-right: 600px;
+    border-radius: 70px;
+    background-color: white;
+    color: #363853;
+   margin-left: 400px;
+   
+}
+
+.button3{
+
+}
+
+footer h2{
+    text-align: center;
+}
+
+.box{
+    margin-left: 500px;
+   
+}
+.su{
+    background-color: white;
+}
+
+.left p{
+    color: #363853;
+}
+
+.teks h2{
+    text-align: center;
+}
+
+
+input{
+    color: #363853;
+    width: 600px;
+    height: 60px;
+    border-radius: 20px;
+    border: none;
+    padding-left: 7px;
+    margin-top: 50px;
+}
+
+footer{
+    background-color: #FF7A50;
+    width: 100%;
+    height: 220px;
+}
+
+.h2{
+    color: white;
+    font-weight: 500;
+    font-size: 40px;
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal
+    
+}
+.h2{
+    padding-top: 20px;
+}
